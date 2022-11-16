@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\bin\Debug\Calculating The Factorial of a Number.exe.config
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\bin\Debug\Calculating The Factorial of a Number.exe
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\bin\Debug\Calculating The Factorial of a Number.pdb
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating The Factorial of a Number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating_The_Factorial_of_a_Number.Form1.resources
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating_The_Factorial_of_a_Number.Properties.Resources.resources
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating The Factorial of a Number.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating The Factorial of a Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating The Factorial of a Number.exe
+C:\Users\User\source\repos\Calculating The Factorial of a Number\Calculating The Factorial of a Number\obj\Debug\Calculating The Factorial of a Number.pdb
